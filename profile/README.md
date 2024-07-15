@@ -80,3 +80,44 @@
 |Programming Language|<img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>|                   
 |Version Control|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 <br />
+
+## 🌈 프로젝트 기능
+### 🤷‍♂️ 사용자
+> 회원가입
+<br>
+
+> 로그인
+<br>
+
+> 상품 목록 조회
+<br>
+
+> 상품 상세 조회
+<br>
+
+> 바로 픽업 주문
+<br>
+
+> 재고 요청 주문
+<br>
+
+> 주문 목록 조회
+<br>
+
+### 👨‍💼 관리자
+
+> 지점별 상품 목록 조회
+<br>
+
+> 유저 목록 조회
+<br>
+
+> 지점별 주문 목록 조회
+<br>
+
+> 주문 상태 변경(배송중 -> 지점수령완료)
+<br>
+
+> 주문 상태 변경(지점수령완료 -> 고객수령완료)
+<br>
+
