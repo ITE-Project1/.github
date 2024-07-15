@@ -84,10 +84,15 @@
 ## 🌈 프로젝트 기능
 ### 🤷‍♂️ 사용자
 > 회원가입
+
 <br>
 
 > 로그인
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/7b2dc97f-d062-4194-9e96-f142c02424dc" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
+
+<br><br>
 
 > 상품 목록 조회
 <br>
@@ -107,7 +112,11 @@
 ### 👨‍💼 관리자
 
 > 지점별 상품 목록 조회
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/973018b8-bfa7-4802-93d2-47a09f9b78c5" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
+
+<br><br>
 
 > 유저 목록 조회
 <br>
@@ -121,6 +130,7 @@
 > 주문 상태 변경(지점수령완료 -> 고객수령완료)
 <br>
 
+## 🎥 시연 영상
 
 <a href="https://youtu.be/m-BVKQEsIqg?feature=shared" target="_blank">
     <img src="https://github.com/user-attachments/assets/de11c79f-9bcb-4715-bf1c-3e97a4356cb0" alt="YouTube Video" style="width:800px;height:auto;">
