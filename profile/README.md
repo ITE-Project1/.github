@@ -16,12 +16,12 @@
 <br>
 
 ## ⚙️ 시스템 구성도
-![image](https://github.com/user-attachments/assets/2f2428cd-968b-4c72-a7b1-f3afdf8bb7b6)
+<img src="https://github.com/user-attachments/assets/2f2428cd-968b-4c72-a7b1-f3afdf8bb7b6" width="70%"/>
 
 <br>
 
 ## 💽 ERD(물리)
-![image](https://github.com/user-attachments/assets/38c9c98e-7279-4519-8351-f01652e9cd2f)
+<img src="https://github.com/user-attachments/assets/38c9c98e-7279-4519-8351-f01652e9cd2f" width="70%"/>
 
 <br>
 
