@@ -121,3 +121,5 @@
 > 주문 상태 변경(지점수령완료 -> 고객수령완료)
 <br>
 
+
+<iframe width="640" height="360" src="https://youtu.be/nJo32unKkC4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
