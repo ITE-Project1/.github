@@ -13,25 +13,21 @@
  
   2024.06.17 ~ 2024.06.24
 </div>
+<br>
 
-## Hi there 👋
+## ⚙️ 시스템 구성도
+![image](https://github.com/user-attachments/assets/2f2428cd-968b-4c72-a7b1-f3afdf8bb7b6)
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+## 💽 ERD(물리)
+![image](https://github.com/user-attachments/assets/38c9c98e-7279-4519-8351-f01652e9cd2f)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
+<br>
 
 ## 🛠 기술 스택
 
-### 🖥 Frontend
+### 🖥 FrontEnd
 |역할|종류|
 |-|-|
 |Library|<img alt="RED" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
@@ -40,7 +36,7 @@
 |Version Control|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 <br />
 
-### 🖥 Backend
+### 🖥 BackEnd
 
 
 
