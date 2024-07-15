@@ -121,5 +121,6 @@
 > 주문 상태 변경(지점수령완료 -> 고객수령완료)
 <br>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nJo32unKkC4?si=XSi-ekFJXLfmRlAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=nJo32unKkC4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/67a31d12-6d35-4479-929c-231ab497792d" alt="YouTube Video" style="width:800px;height:auto;">
+</a>
