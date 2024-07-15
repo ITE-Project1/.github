@@ -120,7 +120,7 @@
 
 > 재고 요청 주문
 <kbd align="center">
-  <img src="" alt="재고 요청 주문" style="width:400px; border: 1px solid #cccccc;">
+  <img src="https://github.com/user-attachments/assets/3eca1ccb-05aa-490f-927a-328ce435e955" alt="재고 요청 주문" style="width:400px; border: 1px solid #cccccc;">
 </kbd>
 
 <br><br>
