@@ -84,24 +84,39 @@
 ## 🌈 프로젝트 기능
 ### 🤷‍♂️ 사용자
 > 회원가입
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/d8a15208-2244-4b41-9f22-d3d79dbcd6d4" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
 
-<br>
+<br><br>
 
 > 로그인
 <kbd align="center">
-  <img src="https://github.com/user-attachments/assets/7b2dc97f-d062-4194-9e96-f142c02424dc" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+  <img src="https://github.com/user-attachments/assets/ed8e316d-bb73-4631-b71d-cafebf4d0ec1" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
 </kbd>
 
 <br><br>
 
 > 상품 목록 조회
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/e79f58cf-1155-437d-8c93-814b44ab7463" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
+
+<br><br>
 
 > 상품 상세 조회
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/37d49d2e-b983-4159-975b-b36f83b42182" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
+
+<br><br>
 
 > 바로 픽업 주문
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/5d8cb90b-213c-4195-9abf-d0b029d9c982" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
+
+<br><br>
 
 > 재고 요청 주문
 <br>
@@ -119,16 +134,19 @@
 <br><br>
 
 > 유저 목록 조회
-<br>
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/1bc499fb-3efc-49a1-8095-5b0d91d31854" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
 
-> 지점별 주문 목록 조회
-<br>
+<br><br>
 
-> 주문 상태 변경(배송중 -> 지점수령완료)
-<br>
+> 지점별 주문 목록 조회 및 주문 상태 변경
+<kbd align="center">
+  <img src="https://github.com/user-attachments/assets/8ebfc7c7-b2ce-43b5-82f1-06ed68edf974" alt="사용자 가입" style="width:400px; border: 1px solid #cccccc;">
+</kbd>
 
-> 주문 상태 변경(지점수령완료 -> 고객수령완료)
-<br>
+<br><br>
+
 
 ## 🎥 시연 영상
 
