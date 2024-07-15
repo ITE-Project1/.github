@@ -127,7 +127,7 @@
 
 > 주문 목록 조회
 <kbd align="center">
-  <img src="https://github.com/user-attachments/assets/ee09fb84-d478-4936-a4f3-6313aeca3386" alt="주문 목록 조회" style="width:400px; border: 1px solid #cccccc;">
+  <img src="https://github.com/user-attachments/assets/e4577648-fd08-465a-a274-ca834823020b" alt="주문 목록 조회" style="width:400px; border: 1px solid #cccccc;">
 </kbd>
 
 <br><br>
