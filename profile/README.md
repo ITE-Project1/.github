@@ -1,3 +1,19 @@
+<div align="center">
+  <br />
+  <img src="https://github.com/user-attachments/assets/3803fd80-20d2-4578-8166-1d615fa0457c" width="60%"/>
+  <br />
+</div>
+
+<div align="center">
+ <h3><b>Pick on</b></h3>
+
+<h3><b>백화점 매장 픽업 서비스</b></h3>
+ 
+ 현대 IT&E 9기 1차 웹프로젝트
+ 
+  2024.06.17 ~ 2024.06.24
+</div>
+
 ## Hi there 👋
 
 <!--
