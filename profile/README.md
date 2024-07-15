@@ -15,6 +15,13 @@
 </div>
 <br>
 
+## 👥 팀원 소개
+| [<img src="https://github.com/serak0310.png" width="200">](https://github.com/serak0310) | [<img src="https://github.com/youjinforwho.png" width="200">](https://github.com/youjinforwho) | [<img src="https://github.com/ChrisSeok.png" width="200">](https://github.com/ChrisSeok) | [<img src="https://avatars.githubusercontent.com/Hypersand" width="200">](https://github.com/Hypersand) |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+|[김민정](https://github.com/serak0310)|[박유진](https://github.com/yurrrrri)|[석채원](https://github.com/udonggi)|[손승완](https://github.com/Hypersand)|
+
+
+
 ## ⚙️ 시스템 구성도
 <img src="https://github.com/user-attachments/assets/2f2428cd-968b-4c72-a7b1-f3afdf8bb7b6" width="70%"/>
 
@@ -37,9 +44,6 @@
 <br />
 
 ### 🖥 BackEnd
-
-
-
 |역할|종류|
 |-|-|
 |Framework|<img alt="RED" src ="https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)|
